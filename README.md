@@ -12,7 +12,7 @@ Replicar o design do desafio do componente de código QR do Frontend Mentor.
 ###  Links
 
 - URL da solução: [https://github.com/vinicius-2a/Qr-code-Front-End-Mentor-/]
-- URL do site ao vivo: [https://vinicius2a.github.io/Qr-code-Front-End-Mentor-/]
+- URL do site ao vivo: [https://vinicius-2a.github.io/Qr-code-Front-End-Mentor-/]
 
 ##  Construído com
 - Marcação HTML5 semântica
@@ -20,4 +20,4 @@ Replicar o design do desafio do componente de código QR do Frontend Mentor.
 - Flexbox
 
 ##  Autor
-- Frontend Mentor - [ @viniciusMaranhao ](https://www.frontendmentor.io/profile/vinicius-2a)
+- Frontend Mentor - [ @vinicius-2a ](https://www.frontendmentor.io/profile/vinicius-2a)
